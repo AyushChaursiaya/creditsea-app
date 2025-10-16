@@ -29,7 +29,7 @@ A fullstack MERN application for processing Experian soft credit pull XML files 
 
 1. #### clone the repo using this command
    ```bash
-   git clone
+   git clone https://github.com/AyushChaursiaya/creditsea-app
    ```
 2. **Clone and setup**:
 
@@ -63,7 +63,7 @@ A fullstack MERN application for processing Experian soft credit pull XML files 
    http://localhost:5173
    ```
 5. #### Deployed Link for the Assignment:
-   [assignment]()
+   [assignment](https://creditsea-app-rho.vercel.app/login)
 
 ## For any queries related to the project, contact at ayushchaurasiya289@gmail.com
 
